@@ -2,3 +2,9 @@ h1 {
   font-size: 30px;
   color: coral;
 }
+p {
+  font-size: 30px;
+}
+body {
+  background-color: paleturquoise;
+}
